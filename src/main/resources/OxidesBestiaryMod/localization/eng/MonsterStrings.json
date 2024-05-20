@@ -1,0 +1,39 @@
+{
+  "oxidesbestiary:ShellBeast": {
+    "MOVES": [
+      "move"
+    ],
+    "NAME": "Shellby",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "oxidesbestiary:Buzzer": {
+    "MOVES": [
+      "move"
+    ],
+    "NAME": "Buzzer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "oxidesbestiary:BigBoy": {
+    "MOVES": [
+      "move"
+    ],
+    "NAME": "Big Boy",
+    "DIALOG": [
+      ""
+    ]
+  },
+
+  "OxidesBestiaryMod:TestSphere": {
+    "MOVES": [
+      "move"
+    ],
+    "NAME": "Test Sphere",
+    "DIALOG": [
+      ""
+    ]
+  }
+}

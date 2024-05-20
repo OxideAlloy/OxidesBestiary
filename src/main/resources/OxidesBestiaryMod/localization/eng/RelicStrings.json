@@ -1,0 +1,34 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:TestRelic": {
+    "NAME": "Test Relic",
+    "FLAVOR": "I followed a tutorial!",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, gain #b",
+      " #yStrength."
+    ]
+  },
+  "${modID}:BrokenClockRelic": {
+    "NAME": "Broken Clock",
+    "FLAVOR": "It runs twice as fast as it should.",
+    "DESCRIPTIONS": [
+      "You gain #b",
+      " less energy and draw #b",
+      " less cards each turn. You get a second turn each round. "
+    ]
+  },
+  "${modID}:CaduceusRelic": {
+    "NAME": "Caduceus",
+    "FLAVOR": "A pacifist's staff.",
+    "DESCRIPTIONS": [
+      "Gain #b1 Energy at the start of each turn. Attacks cost #b",
+      " more to play."
+    ]
+  }
+}

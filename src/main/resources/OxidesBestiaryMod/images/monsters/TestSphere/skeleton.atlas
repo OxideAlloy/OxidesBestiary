@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TestSphere2
+  rotate: false
+  xy: 1, 1
+  size: 58, 58
+  orig: 72, 72
+  offset: 7, 7
+  index: -1
